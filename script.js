@@ -23,5 +23,8 @@ document.getElementById("bmiform").addEventListener("submit", function(e){
         } else {
             result.textContent += ". You are obese."
         }
+
+
+        
     }
 })
